@@ -16,6 +16,6 @@ namespace Domain.Models
             MasaPaketa = masaPaketa;
         }
 
-        public uint MasaPaketa;
+        public uint MasaPaketa { get; set; }
     }
 }
