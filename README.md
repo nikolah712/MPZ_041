@@ -38,7 +38,7 @@ dotnet run --project Presentation -- json
 
 ## Студентски подаци
 
-- Број и назив задатка: Prakticni zadatak 041
+- Број и назив задатка: Prakticni Zadatak 041 - Katalog Proizvoda
 - Јавни GitHub репозиторијум: <https://github.com/nikolah712/MPZ_041>
 - Pull Request 1: __________________________________
 - Pull Request 2: __________________________________
